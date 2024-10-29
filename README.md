@@ -21,11 +21,6 @@ Here are some ideas to get you started:
    
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassisouza&layout=compact&langs_count=16&theme=dracula"/>
     </div><hr/>
-
-  
-  <div>
-    <img display="flex" margin="0" padding= "0" align="right" alt="Vivi-gif" height="350em" src="https://4.bp.blogspot.com/-T2bVs6xiUks/XHeLMCZlvOI/AAAAAAAUQDU/k-8YrZmX5j4S9VOaOULzqtExdduBcfPtQCLcBGAs/s1600/AW3567431_10.gif">
-  </div>    
   
    
   ## 👌 Actually using 
